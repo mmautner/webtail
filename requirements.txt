@@ -1,0 +1,4 @@
+celery
+gevent-socketio
+flask
+flask-assets
